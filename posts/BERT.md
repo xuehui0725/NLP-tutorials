@@ -1,13 +1,3 @@
----
-title: NLP模型-06-Bert
-date: 2020-05-08
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 Bert（Bidirectional Encoder Representations from Transformers）说白了就是`transformer`中的`encoder`部分，就是怎么将transformer模型中的特征学习出来，是Word2Vec的替代者。
 
 1. 使用了Transformer作为算法的主要框架，能更彻底的捕捉语句中的双向关系；

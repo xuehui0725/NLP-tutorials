@@ -1,13 +1,3 @@
----
-title: NLP模型-10-seq2seq
-date: 2020-06-05
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 ### seq2seq初识
 当输入和输出都是不定长序列时，则可以使用`编码器-解码器`或`seq2seq模型`解决。
 

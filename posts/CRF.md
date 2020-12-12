@@ -1,13 +1,3 @@
----
-title: NLP模型-04-CRF
-date: 2020-04-21
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 ### CRF简介
 CRF是条件随机场（Conditional Random Fields）的简称，是给定一组输入序列条件下另一组输出序列的条件概率分布模型。
 

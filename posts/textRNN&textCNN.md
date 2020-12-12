@@ -1,13 +1,3 @@
----
-title: NLP模型-09-textRNN&textCNN
-date: 2020-06-01
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 ### TextRNN
 #### 模型结构
 TextRNN是利用RNN网络来解决文本分类问题，当然，也可以采用RNN的变种LSTM、GRU来实现……

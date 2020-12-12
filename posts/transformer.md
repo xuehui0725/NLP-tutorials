@@ -1,15 +1,3 @@
----
-title: NLP模型-05-transformer
-date: 2020-05-02
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-<!-- more -->
-
-
 ### 什么是transformer
 一句话解释：`transformer`是带有`self-attention`的`seq2seq`，输出能同时计算，可以代替RNN结构（必须按输入的顺序计算），因此transformer对于sequence to sequence的应用场景更为高效。
 

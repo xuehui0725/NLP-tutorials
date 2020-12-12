@@ -1,13 +1,3 @@
----
-title: NLP模型-11-attention
-date: 2020-06-12
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 ### 何为Attention
 
 <img width="60%" src="https://i.loli.net/2020/03/31/NF5q9JroSgapxTt.png" alt="attention" />

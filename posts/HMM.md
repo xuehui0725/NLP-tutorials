@@ -1,13 +1,3 @@
----
-title: NLP模型-02-HMM
-date: 2020-03-30
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 ### 初识HMM
 
 HMM是`Hidden Markov Model`的缩写，是一个时序类的模型，`x`是观测值，`z`是隐变量。`z`可以视为状态，每个状态`z`都可以产生一个观测值`x`。HMM是有方向的生成模型。HMM的基础结构如下：

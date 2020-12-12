@@ -1,15 +1,3 @@
----
-title: NLP模型-03-GMM
-date: 2020-04-12
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
-GMM是高斯混合模型（Gaussian Mixture Model）的简称。GMM模型是一种普遍使用的聚类算法，使用了高斯分布作为模型参数，EM算法进行训练。
-
 ### 高斯分布
 高斯分布也叫正态分布，是一种在自然界大量的存在的、最为常见的分布形式。高斯分布的概率密度函数公式如下：
 

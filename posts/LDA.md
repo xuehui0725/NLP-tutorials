@@ -1,13 +1,3 @@
----
-title: NLP模型-07-LDA
-date: 2020-05-15
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 ### 什么是LDA？
 LDA（Latent Dirichlet Allocation）是一种文档主题生成模型，也称为一个三层贝叶斯概率模型，包含词、主题和文档三层结构。
 

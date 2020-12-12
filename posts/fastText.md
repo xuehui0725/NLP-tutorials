@@ -1,13 +1,3 @@
----
-title: NLP模型-08-fastText
-date: 2020-05-21
-categories: NLP
-author: yangpei
-comments: true
-cover_picture: /images/banner.jpg
----
-
-
 #### fastText初始
 fastText是一个快速文本分类算法，FastText 算法能获得和深度模型相同的精度，但是计算时间却要远远小于深度学习模型。fastText 可以作为一个文本分类的 baseline 模型。fastText不需要训练好的词向量模型，它会自己训练词向量模型。fastText两个重要的优化：`Hierarchical Softmax`、`N-gram`。fastText模型架构和word2vec中的CBOW很相似， 不同之处是fastText预测标签而CBOW预测的是中间词，模型架构类似但是模型任务不同。
 

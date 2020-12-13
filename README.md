@@ -74,7 +74,7 @@ NLP作为人工智能领域的一部分，相比于传统机器学习、计算�
 - [03-notMNIST图像分类.ipynb](./posts/exercise/3-DL实战/03-notMNIST图像分类.ipynb)
 - [04-CNN图像分类.ipynb](./posts/exercise/3-DL实战/04-CNN图像分类.ipynb)
 - [05-基于词向量和LSTM对豆瓣影评分类.ipynb](./posts/exercise/3-DL实战/05-基于词向量和LSTM对豆瓣影评分类.ipynb)
-- [06-RNN原理及使用(PyTorch).ipynb](./posts/exercise/3-DL实战/06-RNN原理及使用(PyTorch) .ipynb)
+- [06-RNN原理及使用(PyTorch).ipynb](./posts/exercise/3-DL实战/06-RNN原理及使用(PyTorch).ipynb)
 - [07-恶意评论分类.ipynb](./posts/exercise/3-DL实战/07-恶意评论分类.ipynb)
 - [08-CNN及迁移学习图像分类.ipynb](./posts/exercise/3-DL实战/08-CNN及迁移学习图像分类.ipynb)
 - [09-基于RNN的影评情感分类(PyTorch).ipynb](./posts/exercise/3-DL实战/09-基于RNN的影评情感分类(PyTorch).ipynb)
